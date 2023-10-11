@@ -24,7 +24,7 @@ Begin by launching Google Sheets on your computer.
 1. Click on the drawing icon you've just created.
 2. In the top-right corner, click on the three dots (`...`).
 3. Choose **Assign Script** from the dropdown menu.
-4. Name your script; let's call it "Sarpt."
+4. Name your script; let's call it "sendmail."
 <div style="float: right; padding-left: 20px;">
   <img src="https://github.com/ranvirsingh603/Automate-mails-in-sheets/blob/main/Screenshot%202023-10-11%20125713.png" alt="Google Sheets Logo" height="150">
 </div> 
