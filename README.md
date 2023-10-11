@@ -30,7 +30,7 @@ Begin by launching Google Sheets on your computer.
 </div> 
 That's it! You've successfully assigned the "sendmail script, which will run when you open the sheet. ✨
 
-# Google Apps Script - Sending Automated Emails
+## **Step 5: Google Apps Script - Sending Automated Emails 📃**
 
 This line defines a JavaScript function named sendmail(). Functions in JavaScript are blocks of reusable code.
 ```javascript
@@ -90,3 +90,11 @@ In summary, this script is designed to send personalized emails to a list of rec
     }
 ```
 ---
+Save the Script
+
+## **Step 6: Sending mails 📨**
+Click on the **SEND MAIL** icon we created earlier this will run the script and automatically send mails.
+
+### **CONGRATULATIONS!**
+**Ranvir Singh Matharu**
+
